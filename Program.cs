@@ -17,7 +17,7 @@ while (playAgain)
             computerChoice = "SCISSORS";
             break;
     }
-    Console.WriteLine(computerChoice);
+    // Console.WriteLine(computerChoice);
 
     String playerChoice = "";
 
